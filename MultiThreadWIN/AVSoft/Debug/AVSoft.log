@@ -1,0 +1,5 @@
+﻿  AVSoft.cpp
+C:\Users\artem\source\repos\AVSoft\AVSoft\AVSoft.cpp(62,44): warning C4244: аргумент: преобразование "DWORD64" в "std::array<DWORD64,1024>::size_type", возможна потеря данных
+C:\Users\artem\source\repos\AVSoft\AVSoft\AVSoft.cpp(63,64): warning C4244: аргумент: преобразование "DWORD64" в "std::array<DWORD64,1024>::size_type", возможна потеря данных
+C:\Users\artem\source\repos\AVSoft\AVSoft\AVSoft.cpp(112,56): warning C4244: аргумент: преобразование "DWORD64" в "std::array<DWORD64,1024>::size_type", возможна потеря данных
+  AVSoft.vcxproj -> C:\Users\artem\source\repos\AVSoft\Debug\AVSoft.exe
