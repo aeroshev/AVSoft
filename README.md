@@ -17,9 +17,9 @@ MultiThreadWIN/AVSoft/AVSoft.cpp
 
 Листинг работы
 Без сброса разделяемой памяти
-![alt text](images/Exercise1_without_flush)
+![alt text](https://github.com/aeroshev/AVSoft/images/Exercise1_without_flush)
 С сбросом разделяемой памяти
-![alt text](images/Exercise1_with_flush)
+![alt text](https://github.com/aeroshev/AVSoft/images/Exercise1_with_flush)
 
 ## Второе задание
 
@@ -38,7 +38,7 @@ cmake --build cmake-build-debug --target AVSoft2 -- -j 4
 ```
 
 Листинг работ
-![alt text](images/Exercise2_part1)
-![alt text](images/Exercise2_part2)
-![alt text](images/Exercise2_part3)
-![alt text](images/Exercise2_part4)
+![alt text](https://github.com/aeroshev/AVSoft/images/Exercise2_part1)
+![alt text](https://github.com/aeroshev/AVSoft/images/Exercise2_part2)
+![alt text](https://github.com/aeroshev/AVSoft/images/Exercise2_part3)
+![alt text](https://github.com/aeroshev/AVSoft/images/Exercise2_part4)
